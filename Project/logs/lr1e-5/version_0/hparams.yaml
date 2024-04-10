@@ -1,0 +1,6 @@
+hidden_layer_sizes:
+- 100
+- 50
+input_size: 1
+learning_rate: 1.0e-05
+output_size: 1
